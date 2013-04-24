@@ -1,7 +1,7 @@
 <?php
 
 
-/* HOT FIX FOR MASTER BRANCH - HOTFIX-1.2.1 BRANCH */
+/* HOT FIX, Fixed severe production problem (BUMPED VERSION) - HOTFIX-1.2.1 BRANCH */
 
 
 /**
