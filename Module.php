@@ -1,7 +1,7 @@
 <?php
 
 
-/* MYFEATURE BRANCH */
+/* MANUAL BUMP FILE VERSION - RELEASE-1.2 BRANCH */
 
 
 /**
