@@ -1,4 +1,9 @@
 <?php
+
+
+/* READY FOR RELEASE - RELEASE-1.2 BRANCH */
+
+
 /**
  * Zend Framework (http://framework.zend.com/)
  *
