@@ -1,7 +1,7 @@
 <?php
 
 
-/* READY FOR RELEASE - RELEASE-1.2 BRANCH */
+/* HOT FIX, Fixed severe production problem (BUMPED VERSION) - HOTFIX-1.2.1 BRANCH */
 
 
 /**
